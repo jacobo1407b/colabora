@@ -1,0 +1,12 @@
+Este es un proyecto para prueba de nuevos comandos de git
+
+se trata de una página hecha en bootstrap
+
+Donde se utiliza un nav-bar, un slider carousel y una seccion de cards
+
+Editanto el index
+
+Colaboradores
+
+1.- Francisco López -> header y footer
+2.- Seani Developers -> contenido
